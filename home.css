@@ -6,7 +6,9 @@
   font-family: system-ui;
 }
 body {
-  background: #c3c0ba;
+  background-image: url(./images/random_particles.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 /* Main page */
 .main-page {
